@@ -1,0 +1,51 @@
+using System;
+
+namespace N1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Title = "Лабораторная работа № 1. Задание 1.";
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
+
+            try
+            {
+                double r, l, s;
+                Console.WriteLine("Введите значение радиуса.\n");
+                Console.Write("R = ");
+                r = Double.Parse(Console.ReadLine());
+
+                if (r > 0)
+                {
+                    l = 2 * Math.PI * r;
+                    s = Math.PI * Math.Pow(r, 2);
+                    Console.WriteLine("\nДлина окружности = {0:###.##}", l);
+                    Console.WriteLine("Площадь окружности = {0:###.##}", s);
+                }
+
+                else
+
+                    Console.Write("\nНекорректный ввод данных!");
+            }
+
+            catch (OverflowException)
+            {
+                Console.Write("\nАрифметическое переполнение!");
+                Console.ReadLine();
+                return;
+            }
+
+            catch(InvalidCastException)
+            {
+                Console.Write("\nНекорректное преобразование типов данных!");
+                Console.ReadLine();
+                return;
+            }
+
+            Console.ReadKey();
+        }
+    }
+}
