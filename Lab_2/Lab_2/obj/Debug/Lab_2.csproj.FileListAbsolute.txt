@@ -1,0 +1,10 @@
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Учёба\4 семестр\РСПСиИТ\projects\PIE-20_Nesterova_Lab_2\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
