@@ -19,8 +19,8 @@ namespace Lab_2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToDouble(textBox1.Text);
-            double b = Convert.ToDouble(textBox2.Text);
+            double a = Convert.ToInt32(textBox1.Text);
+            double b = Convert.ToInt32(textBox2.Text);
             double c;
 
             c = a + b;
@@ -30,8 +30,8 @@ namespace Lab_2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToDouble(textBox1.Text);
-            double b = Convert.ToDouble(textBox2.Text);
+            double a = Convert.ToInt32(textBox1.Text);
+            double b = Convert.ToInt32(textBox2.Text);
             double c;
 
             c = a - b;
@@ -41,8 +41,8 @@ namespace Lab_2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToDouble(textBox1.Text);
-            double b = Convert.ToDouble(textBox2.Text);
+            double a = Convert.ToInt32(textBox1.Text);
+            double b = Convert.ToInt32(textBox2.Text);
             double c;
 
             c = a * b;
@@ -52,8 +52,8 @@ namespace Lab_2
 
         private void button4_Click(object sender, EventArgs e)
         {
-            double a = Convert.ToDouble(textBox1.Text);
-            double b = Convert.ToDouble(textBox2.Text);
+            double a = Convert.ToInt32(textBox1.Text);
+            double b = Convert.ToInt32(textBox2.Text);
             double c;
 
             c = a / b;
